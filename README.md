@@ -5,7 +5,7 @@ Just a simple test with JDK11, Spring Framework and H2 database to learn tha bas
 
 In this project I created the relation Product to Category and response by JSON
 
-### Tecnologies
+### 🚩 Tecnologies
 - JAVA JDK11
 - Spring Framework
 - H2 Database
