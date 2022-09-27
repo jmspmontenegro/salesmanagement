@@ -1,9 +1,10 @@
-# Test Project - salesmanagement
+# Sprint Test.
 
 ### 🚧 About this project
-Just a simple test with JDK11, Spring Framework and H2 database to learn tha basics.
+A simple test works on JDK11, Spring Framework, and the H2 database. 
+The objective is to observe how this environment works because I'm working on a new personal project.
 
-In this project I created the relation Product to Category and response by JSON
+In this project, I created the relation Product to Category and response by JSON. 
 
 ### 🚩 Tecnologies
 - JAVA JDK11
